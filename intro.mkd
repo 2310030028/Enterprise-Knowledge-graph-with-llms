@@ -1,0 +1,9 @@
+1) Graph consists of nodes which are connected to one another using edges.
+2) Graph is used to define a relationship
+3) Two types
+ - Directed graph
+ - Undirected graph
+4) Till now we stored the data in a vector database but what vector db can't capture are relationship, can also capture indirect relationships also
+5) Graph DB: neo4j,kuzu db
+neo4j uses cypher query
+llm will create the cypher query and store in db
